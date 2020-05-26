@@ -1,0 +1,8 @@
+*pkl
+/results
+/datasets
+/cache
+/_pycache_
+*.pyc
+*.md
+
